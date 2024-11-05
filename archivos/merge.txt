@@ -2,3 +2,9 @@ Melanie Bula Fuentes
 17
 Espero en esta materia aprender a crear programas utilizando los principios de la programacion orientada a objetos,
 asi como lograr comprender de una mejor manera el lenguaje de java y de python.
+
+Se pudo realizar un commit y subir la carpeta "archivo" porque se creo un documento "respuesta",
+por lo que la carpeta ya no estaba vacia, permitiendo que GitHub detectara los cambios.
+
+Es importante tener cuidado al momento de modificar un mismo archivo desde diferentes ubicaciones, porque se pueden
+presentar conflicto entre la version local y la del servidor.

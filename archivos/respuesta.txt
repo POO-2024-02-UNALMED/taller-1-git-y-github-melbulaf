@@ -1,0 +1,1 @@
+No se pudo hacer commit, porque al tener la carpeta "Archivos" vacia, GitHub no detecta cambios.
